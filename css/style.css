@@ -106,7 +106,7 @@ div.divjustify{
   border-radius: 0;
   color: white;
   font-size: 12px;
-  font-weight: 200%;
+  font-weight: 200;
   height: 50px;
   line-height: 50px;
   padding: 0 30px;
@@ -547,7 +547,7 @@ nav ul li a {
   border-radius: 0;
   color: white;
   font-size: 12px;
-  font-weight: 200%;
+  font-weight: 200;
   height: 50px;
   line-height: 50px;
   padding: 0 30px;
@@ -639,7 +639,6 @@ button.ensavoirplus{
 background-color : #067773;
 font-family: Roboto ;
 border: none;
-border-radius: 2;
 color: white;
 }
 
