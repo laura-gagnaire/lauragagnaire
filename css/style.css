@@ -636,7 +636,8 @@ text-align: center;
 
 
 /* BTN en savoir + */
-btn .ensavoirplus{
+.ensavoirplus{
+background-color : #B1FBF8;
 font-family: Roboto ;
 background: white;
 border: 1px solid white;
@@ -645,9 +646,9 @@ color: grey;
 text-transform: uppercase;
 }
 
-#btnensavoirplus:hover, #btnensavoirplus:focus {
+/*#btnensavoirplus:hover, #btnensavoirplus:focus {
   background-color: #B1FBF8;
-}
+}*/
 
 /* fin bouton en savoir plus */
 
