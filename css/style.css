@@ -510,7 +510,7 @@ nav ul li a {
 /*  Contact
 /*-----------------------------------------------------------------------------------*/
 
-#contact {
+.contact {
   height: auto;
   width: 100%;
 }
@@ -522,12 +522,12 @@ nav ul li a {
 }
 
 
-#contact input, #contact textarea {
+.contact input, #contact textarea {
   width: 100%;
 }
 
 
-#contact  #sendmessage {
+.contact  #sendmessage {
   color: #0Ce0d9;
   border: 1px solid #0Ce0d9;
   display: none;
@@ -537,7 +537,7 @@ nav ul li a {
   margin: 15px;
 }
 
-#contact #sendmessage.show, #contact #errormessage.show, #contact .show {
+.contact #sendmessage.show, #contact #errormessage.show, #contact .show {
   display: block;
 }
 
