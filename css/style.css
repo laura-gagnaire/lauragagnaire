@@ -529,10 +529,7 @@ nav ul li a {
 
 
 .contact .sendmessage {
-  color: #0Ce0d9;
-  border: 1px solid #0Ce0d9;
-  display: none;
-  text-align: center;
+  text-align: left;
   padding: 15px;
   font-weight: 600;
   margin: 15px;
