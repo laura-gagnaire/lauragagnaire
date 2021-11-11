@@ -637,18 +637,12 @@ text-align: center;
 
 /* BTN en savoir + */
 button.ensavoirplus{
-background-color : #B1FBF8;
+background-color : #067773;
 font-family: Roboto ;
-background: white;
-border: 1px solid white;
+border: none;
 border-radius: 2;
-color: grey;
-text-transform: uppercase;
+color: white;
 }
-
-/*#btnensavoirplus:hover, #btnensavoirplus:focus {
-  background-color: #B1FBF8;
-}*/
 
 /* fin bouton en savoir plus */
 
