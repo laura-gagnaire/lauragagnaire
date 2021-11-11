@@ -636,7 +636,7 @@ text-align: center;
 
 
 /* BTN en savoir + */
-.ensavoirplus{
+button.ensavoirplus{
 background-color : #B1FBF8;
 font-family: Roboto ;
 background: white;
