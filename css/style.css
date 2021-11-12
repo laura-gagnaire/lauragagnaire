@@ -533,7 +533,7 @@ nav ul li a {
   padding: 15px;
   font-weight: 600;
   margin: 15px;
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 .contact .sendmessage.show, .contact #errormessage.show, .contact .show {
