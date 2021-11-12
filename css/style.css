@@ -533,7 +533,6 @@ nav ul li a {
   padding: 15px;
   font-weight: 600;
   margin: 15px;
-  text-decoration: underline;
 }
 
 .contact .sendmessage.show, .contact #errormessage.show, .contact .show {
@@ -637,6 +636,7 @@ text-align: center;
 /* BTN en savoir + */
 button.ensavoirplus{
 background-color : #067773;
+text-decoration: underline;
 font-family: Roboto ;
 border: none;
 color: white;
