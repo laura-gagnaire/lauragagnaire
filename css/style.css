@@ -778,6 +778,10 @@ color: white;
 
 
 /*  ----------------   EXPERIENCES FONDS   ---------------- */
+#background-ambazac{
+  background-color: #00e1db;
+}
+
 #background-enedis{
  background-color: #4bbbbc;
 }
@@ -798,7 +802,7 @@ background-color: #00e1db;
 background-color: #4bbbbc;
 }
 
-#background-enedis:hover, #background-edf:hover, #background-cpam:hover, #background-uadp:hover, #background-texto:hover{
+#background-ambazac:hover, #background-enedis:hover, #background-edf:hover, #background-cpam:hover, #background-uadp:hover, #background-texto:hover{
   background: #033a38;
   color: white;
 }
