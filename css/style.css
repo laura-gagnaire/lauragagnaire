@@ -778,6 +778,15 @@ color: white;
 
 
 /*  ----------------   EXPERIENCES FONDS   ---------------- */
+
+#background-enedisbourgogne{
+  background-color: #00e1db;
+}
+
+#background-poleformation-auvergne{
+  background-color: #4bbbbc;
+}
+
 #background-ambazac{
   background-color: #00e1db;
 }
@@ -802,7 +811,7 @@ background-color: #00e1db;
 background-color: #4bbbbc;
 }
 
-#background-ambazac:hover, #background-enedis:hover, #background-edf:hover, #background-cpam:hover, #background-uadp:hover, #background-texto:hover{
+#background-enedisbourgogne:hover, #background-poleformation-auvergne:hover, #background-ambazac:hover, #background-enedis:hover, #background-edf:hover, #background-cpam:hover, #background-uadp:hover, #background-texto:hover{
   background: #033a38;
   color: white;
 }
