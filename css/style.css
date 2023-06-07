@@ -817,3 +817,39 @@ background-color: #4bbbbc;
 }
 
 /*--------------------------------------------------------------*- */
+
+
+/* eyes */
+
+.eyes {
+  position: absolute;
+  /*top: 50%;*/
+  transform: translateY(-45%);
+  transform: translateX(-10%);
+  width: 100%;
+  text-align: center;
+}
+
+.eye {
+  width: 80px;
+  height: 50px;
+  background: #fff;
+  display: inline-block;
+  margin: 30px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.ball {
+  width: 30px;
+  height: 30px;
+  border: 4px solid #9e6336;
+  background: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(20%, 20%);
+  border-radius: 50%;
+}
